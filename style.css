@@ -1,0 +1,40 @@
+body {
+	margin: 10;
+	padding: 10;
+	color: #a3ce4b;
+	font-family: cursive;
+	font-size: 50px;
+	line-height: 0.9em;
+	background-color: #639dd4;
+	background-repeat: repeat-x;
+	background-position: top;
+}
+p {
+	margin: 1em;
+	padding: 1em;
+}
+h1, h2, h3, h4, h5, h6 { color: #2c2c2c; font-weight: normal; }
+h1 { font-size: 48px; margin: 50; padding: 50; }
+h2 { font-size: 30px; margin: 1em; padding: 1em; }
+h3 { font-size: 24px; margin: 1em; padding: 1em; }
+h4 { font-size: 18px; margin: 1em; padding: 1em; }
+h5 { font-size: 16px; margin: 1em; padding: 1em;  }
+h6 { font-size: 12px; margin: 1em; padding: 1em; }
+
+input {
+    width: 5em;
+    font-family: cursive;
+    font-size: 50px
+}
+select{
+font-family: cursive;
+background-color: #05bb6a;
+font-size: 30px;
+padding: 0.5em;
+margin: 0.5em;
+}
+a{
+border: solid;
+br-width: 2px
+background-color:#e5bb6a;
+}
